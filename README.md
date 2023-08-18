@@ -1,1 +1,3 @@
-# cloudflare-nginx-conf
+# Cloudflare Nginx Configuration
+
+### cf-nginx-confmaker.sh
